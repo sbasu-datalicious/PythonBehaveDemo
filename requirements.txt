@@ -1,0 +1,2 @@
+selenium==3.0.0
+pyhamcrest==1.9.0
